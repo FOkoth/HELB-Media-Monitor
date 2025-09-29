@@ -9,3 +9,8 @@ feedparser
 gnews
 nltk
 openpyxl
+plotly
+plotly
+matplotlib
+numpy
+wordcloud
